@@ -6,5 +6,5 @@ This specific data was provided by Bellabeat. This set contains personal fitbit 
 Insights and recommendations are provided on the following key areas:
 
 * **Activity Trends Analysis:** Weekly activity patterns by comparing total **active minutes** and **sedentary minutes**, **average BMI** for each week, a **24 hour average** of steps and calories and Consumer **weight log** info.
-*  **Product Level Performance:** A analysis of Cyclistics bike product lines.
+*  **Product Level Performance:** A analysis of non-Bellabeat products used by 35 consumers.
 *  **Advertisement Strategy Recommendations**
