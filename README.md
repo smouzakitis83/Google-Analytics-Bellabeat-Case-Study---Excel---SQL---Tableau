@@ -1,7 +1,7 @@
 # Project Background
 Bellabeat is a high tech company that manufacturers health focused smart products period. By 2016, Bella beat had opened offices around the world and launched multiple products. Their products became available through a growing number of online retailers in addition to their own e-commerce channel on their website. 
 
-This specific data was provided by Bellabeat. This set contains personal fitbit tracker data from 35 Fitbit users which is provided by kaggle. The data sets can be viewed [here](https://www.kaggle.com/datasets/arashnic/fitbit)
+This specific data was provided by Bellabeat. This set contains personal fitbit tracker data from 35 Fitbit users which is provided by kaggle. The data sets can be viewed [here](https://www.kaggle.com/datasets/arashnic/fitbit) This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve Bellabeats success.
 
 Insights and recommendations are provided on the following key areas:
 
