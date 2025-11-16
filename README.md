@@ -1,2 +1,2 @@
-# Google-Analytics-Bellabeat-Case-Study---Excel---SQL---Tableau
-Co-Founder and Chief Creative Officer Urška Sršen and Sando Mur have requested I analyze smart device usage data in order to gain insights into how consumers use non-bellabeat smart devices.
+# Project Background
+Bellabeat is a high tech company that manufacturers health focused smart products period. By 2016, Bella beat had opened offices around the world and launched multiple products. Their products became available through a growing number of online retailers in addition to their own e-commerce channel on their website. 
