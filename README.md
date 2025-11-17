@@ -12,3 +12,5 @@ Insights and recommendations are provided on the following key areas:
 *  **Product Level Performance:** A analysis of non-Bellabeat products used by 35 consumers.
 
 An interactive Tableau dashboard can be viewed [here](https://public.tableau.com/app/profile/stamatios.mouzakitis/viz/Non-Bellabeat_Smart_Device_Usage_PowerPoint/Dashboard1)
+
+The SQL queries used to clean, organize and prepare for the dashboard can be found [here]
