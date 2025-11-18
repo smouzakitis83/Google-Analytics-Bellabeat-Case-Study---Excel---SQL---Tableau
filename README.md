@@ -14,3 +14,7 @@ Insights and recommendations are provided on the following key areas:
 An interactive Tableau dashboard can be viewed [here](https://public.tableau.com/app/profile/stamatios.mouzakitis/viz/Non-Bellabeat_Smart_Device_Usage_PowerPoint/Dashboard1)
 
 The SQL queries used to clean, organize and prepare for the dashboard can be found [here](https://github.com/smouzakitis83/Google-Analytics-Bellabeat-Case-Study---Excel---SQL---Tableau/blob/main/SQL_Data_Exploration.SQL)
+# Data Structure & Initial Steps
+In this case study, the data structure consists of four interconnected tables in Tableau: Daily Activity, Hourly Calories, Hourly Steps, and Weight Log Info for capturing detailed biometric and performance metrics. These tables are linked to provide a comprehensive overview of activity patterns and health data.
+
+<img width="653" height="570" alt="Screenshot 2025-11-18 105834" src="https://github.com/user-attachments/assets/e3656ccf-139c-4936-83e4-afc3f381aea8" />
