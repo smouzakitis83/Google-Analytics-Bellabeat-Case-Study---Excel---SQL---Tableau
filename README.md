@@ -19,6 +19,8 @@ In this case study, the data structure consists of four interconnected tables in
 
 <img width="653" height="570" alt="Screenshot 2025-11-18 105834" src="https://github.com/user-attachments/assets/e3656ccf-139c-4936-83e4-afc3f381aea8" />
 
+A cleaned and prepared version of all raw dataset, processed in Microsoft Excel, can be viewed [here](https://github.com/smouzakitis83/Google-Analytics-Bellabeat-Case-Study---Excel---SQL---Tableau/blob/main/DailyActivityTotal.csv)
+
 Prior to the analysis phase, multiple aggregations were performed before importing into Tableau. The SQL queries used during this process can be viewed [here](https://github.com/smouzakitis83/Google-Analytics-Bellabeat-Case-Study---Excel---SQL---Tableau/blob/main/SQL_Data_Exploration.SQL)
 
 # Executive Summary
