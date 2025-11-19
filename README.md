@@ -34,4 +34,22 @@ Below is the overview page from the Tableau dashboard and more examples are incl
 ### Usage Trends
 
 * **Total Activity Minutes** show a slight upward trend throughout the observed period, indicating a modest increase in user movement. In contrast, **Total Sedentary Minutes** rise sharply as the timeline progresses. This suggests that although users are engaging in slightly more activity, their overall sedentary behavior is increasing at a much faster rate.
+  
 * The 24-hour averages for both steps and calories show that user activity is concentrated between 7 a.m. and 7 p.m. Across both bar charts. This time window reflects the highest foot traffic as well as the greatest calorie burn. This pattern indicates that users are most active during typical daytime hours, with activity dropping off significantly outside this range.
+
+* Average weekly BMI remains stable throughout the period, exhibiting only minimal fluctuation. This suggests that users’ overall body composition remained consistent over time.
+
+* The consumer weight log data shows that 64% of users manually recorded their weight, while 36% had their weight logged automatically. This indicates a majority preference for manual entry among users.
+
+### Recommendations
+* **Enhance Activity Engagement Features** - Since users show only a slight increase in activity but a sharp rise in sedentary time, BellaBeat can differentiate itself by introducing smart inactivity alerts that encourage movement during long sedentary periods. Offering personalized activity goals that adjust based on each user’s habits. Adding  challenges (streaks, badges, daily missions) to boost daily movement.
+
+*  **Optimize Daytime Activity Tracking** - Improve real-time daytime notifications (e.g., step goals, hydration reminders, movement nudges). Provide hour-by-hour insights comparing a user’s daytime activity to their past performance.
+
+*  **Strengthen Weight-Logging Features** - BellaBeat can stand out by enhancing automatic weight-sync capabilities with smart scales. Offer a simpler, one-tap manual logging interface, since users are clearly willing to log manually.
+
+*  **Expand Long-Term Health Monitoring** - BellaBeat could focus on long-term health trends, such as changes in body composition, weekly movement consistency and calorie expenditure vs. activity time.
+
+*  **Provide predictive analytics** - showing users how their habits may impact future BMI or wellness markers.
+
+
