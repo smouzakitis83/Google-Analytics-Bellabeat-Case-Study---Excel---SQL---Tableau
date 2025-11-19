@@ -26,3 +26,6 @@ Prior to the analysis phase, multiple aggregations were performed before importi
 The analysis examines activity data from 35 non-BellaBeats users over a defined period to understand their movement patterns and overall wellness behaviors. The dashboard highlights how often users were active versus sedentary, along with trends in their average weekly BMI. It also presents 24-hour averages for steps and calories burned, offering insight into daily activity intensity. The consumer weight log further identifies the percentage of users who logged their weight manually versus automatically. This analysis will help BellaBeat compare non-BellaBeat device usage patterns to their own, supporting data-driven improvements to their products and user experience.
 
 Below is the overview page from the Tableau dashboard and more examples are included in the report. The entire dashboard can be downloaded [here](https://github.com/smouzakitis83/Google-Analytics-Bellabeat-Case-Study---Excel---SQL---Tableau/blob/main/Non-Bellabeat_Smart_Device_Usage.twbx)
+
+<img width="1588" height="896" alt="Screenshot 2025-11-19 101344" src="https://github.com/user-attachments/assets/a5fee217-57b2-444a-bba6-2a5dffb5125d" />
+
