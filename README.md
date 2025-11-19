@@ -1,5 +1,5 @@
 
-<img width="224" height="568" alt="Screenshot 2025-11-17 110146" src="https://github.com/user-attachments/assets/da019282-54a7-4eb1-9df6-5ed0aa229e52" />
+<img width="424" height="768" alt="Screenshot 2025-11-17 110146" src="https://github.com/user-attachments/assets/da019282-54a7-4eb1-9df6-5ed0aa229e52" />
 
 # Project Background
 Bellabeat is a high tech company that manufacturers health focused smart products period. By 2016, Bella beat had opened offices around the world and launched multiple products. Their products became available through a growing number of online retailers in addition to their own e-commerce channel on their website. 
