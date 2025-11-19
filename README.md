@@ -20,3 +20,9 @@ In this case study, the data structure consists of four interconnected tables in
 <img width="653" height="570" alt="Screenshot 2025-11-18 105834" src="https://github.com/user-attachments/assets/e3656ccf-139c-4936-83e4-afc3f381aea8" />
 
 Prior to the analysis phase, multiple aggregations were performed before importing into Tableau. The SQL queries used during this process can be viewed [here](https://github.com/smouzakitis83/Google-Analytics-Bellabeat-Case-Study---Excel---SQL---Tableau/blob/main/SQL_Data_Exploration.SQL)
+
+# Executive Summary
+### Overview of Findings
+The analysis examines activity data from 35 non-BellaBeats users over a defined period to understand their movement patterns and overall wellness behaviors. The dashboard highlights how often users were active versus sedentary, along with trends in their average weekly BMI. It also presents 24-hour averages for steps and calories burned, offering insight into daily activity intensity. The consumer weight log further identifies the percentage of users who logged their weight manually versus automatically. This analysis will help BellaBeat compare non-BellaBeat device usage patterns to their own, supporting data-driven improvements to their products and user experience.
+
+Below is the overview page from the Tableau dashboard and more examples are included in the report. The entire dashboard can be downloaded [here]
