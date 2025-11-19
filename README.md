@@ -34,3 +34,4 @@ Below is the overview page from the Tableau dashboard and more examples are incl
 ### Usage Trends
 
 * **Total Activity Minutes** show a slight upward trend throughout the observed period, indicating a modest increase in user movement. In contrast, **Total Sedentary Minutes** rise sharply as the timeline progresses. This suggests that although users are engaging in slightly more activity, their overall sedentary behavior is increasing at a much faster rate.
+* The 24-hour averages for both steps and calories show that user activity is concentrated between 7 a.m. and 7 p.m. Across both bar charts. This time window reflects the highest foot traffic as well as the greatest calorie burn. This pattern indicates that users are most active during typical daytime hours, with activity dropping off significantly outside this range.
